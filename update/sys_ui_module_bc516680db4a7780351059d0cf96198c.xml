@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="9th June Tab">34516680db4a7780351059d0cf96198b</application>
+        <filter/>
+        <name>9th June Tabs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_69202_reserve_ap.9th_june_tab_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-10 12:37:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bc516680db4a7780351059d0cf96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9th June Tabs</sys_name>
+        <sys_package display_value="Reserve App" source="x_69202_reserve_ap">c150a200db4a7780351059d0cf961975</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reserve App">c150a200db4a7780351059d0cf961975</sys_scope>
+        <sys_update_name>sys_ui_module_bc516680db4a7780351059d0cf96198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-10 12:37:43</sys_updated_on>
+        <table>x_69202_reserve_ap_9th_june_tab</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
